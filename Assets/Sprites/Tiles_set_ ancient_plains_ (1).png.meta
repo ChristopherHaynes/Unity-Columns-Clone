@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 04d3f848f646c7142b8089362a077ae4
+timeCreated: 1474022990
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tiles_set_ ancient_plains_ (1)_0
+    21300002: Tiles_set_ ancient_plains_ (1)_1
+    21300004: Tiles_set_ ancient_plains_ (1)_2
+    21300006: Tiles_set_ ancient_plains_ (1)_3
+    21300008: Tiles_set_ ancient_plains_ (1)_4
+    21300010: Tiles_set_ ancient_plains_ (1)_5
+    21300012: Tiles_set_ ancient_plains_ (1)_6
+    21300014: Tiles_set_ ancient_plains_ (1)_7
+    21300016: Tiles_set_ ancient_plains_ (1)_8
+    21300018: Tiles_set_ ancient_plains_ (1)_9
+    21300020: Tiles_set_ ancient_plains_ (1)_10
+    21300022: Tiles_set_ ancient_plains_ (1)_11
+    21300024: Tiles_set_ ancient_plains_ (1)_12
+    21300026: Tiles_set_ ancient_plains_ (1)_13
+    21300028: Tiles_set_ ancient_plains_ (1)_14
+    21300030: Tiles_set_ ancient_plains_ (1)_15
+    21300032: Tiles_set_ ancient_plains_ (1)_16
+    21300034: Tiles_set_ ancient_plains_ (1)_17
+    21300036: Tiles_set_ ancient_plains_ (1)_18
+    21300038: Tiles_set_ ancient_plains_ (1)_19
+    21300040: Tiles_set_ ancient_plains_ (1)_20
+    21300042: Tiles_set_ ancient_plains_ (1)_21
+    21300044: Tiles_set_ ancient_plains_ (1)_22
+    21300046: Tiles_set_ ancient_plains_ (1)_23
+    21300048: Tiles_set_ ancient_plains_ (1)_24
+    21300050: Tiles_set_ ancient_plains_ (1)_25
+    21300052: Tiles_set_ ancient_plains_ (1)_26
+    21300054: Tiles_set_ ancient_plains_ (1)_27
+    21300056: Tiles_set_ ancient_plains_ (1)_28
+    21300058: Tiles_set_ ancient_plains_ (1)_29
+    21300060: Tiles_set_ ancient_plains_ (1)_30
+    21300062: Tiles_set_ ancient_plains_ (1)_31
+    21300064: Tiles_set_ ancient_plains_ (1)_32
+    21300066: Tiles_set_ ancient_plains_ (1)_33
+    21300068: Tiles_set_ ancient_plains_ (1)_34
+    21300070: Tiles_set_ ancient_plains_ (1)_35
+    21300072: Tiles_set_ ancient_plains_ (1)_36
+    21300074: Tiles_set_ ancient_plains_ (1)_37
+    21300076: Tiles_set_ ancient_plains_ (1)_38
+    21300078: Tiles_set_ ancient_plains_ (1)_39
+    21300080: Tiles_set_ ancient_plains_ (1)_40
+    21300082: Tiles_set_ ancient_plains_ (1)_41
+    21300084: Tiles_set_ ancient_plains_ (1)_42
+    21300086: Tiles_set_ ancient_plains_ (1)_43
+    21300088: Tiles_set_ ancient_plains_ (1)_44
+    21300090: Tiles_set_ ancient_plains_ (1)_45
+    21300092: Tiles_set_ ancient_plains_ (1)_46
+    21300094: Tiles_set_ ancient_plains_ (1)_47
+    21300096: Tiles_set_ ancient_plains_ (1)_48
+    21300098: Tiles_set_ ancient_plains_ (1)_49
+    21300100: Tiles_set_ ancient_plains_ (1)_50
+    21300102: Tiles_set_ ancient_plains_ (1)_51
+    21300104: Tiles_set_ ancient_plains_ (1)_52
+    21300106: Tiles_set_ ancient_plains_ (1)_53
+    21300108: Tiles_set_ ancient_plains_ (1)_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tiles_set_ ancient_plains_ (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 74}
+        - {x: 41, y: 73}
+        - {x: 23, y: 59}
+        - {x: -20, y: 66}
+        - {x: -41, y: 63}
+        - {x: -82, y: 88}
+        - {x: -89, y: 105}
+        - {x: -113, y: 105}
+        - {x: -113, y: -52}
+        - {x: -111, y: -54}
+        - {x: -107, y: -78}
+        - {x: -105, y: -128}
+        - {x: 113, y: -128}
+        - {x: 113, y: 94}
+        - {x: 111, y: 96}
+        - {x: 91, y: 99}
+    - name: Tiles_set_ ancient_plains_ (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: 43}
+        - {x: 103, y: 45}
+        - {x: 96, y: 45}
+        - {x: 96, y: 57}
+        - {x: 103, y: 57}
+        - {x: 105, y: 59}
+        - {x: 105, y: 83}
+        - {x: 111, y: 83}
+        - {x: 113, y: 85}
+        - {x: 113, y: 128}
+        - {x: -105, y: 128}
+        - {x: -113, y: 120}
+        - {x: -113, y: 25}
+        - {x: -111, y: 23}
+        - {x: -105, y: 23}
+        - {x: -105, y: 2}
+        - {x: -111, y: 2}
+        - {x: -113, y: 0}
+        - {x: -113, y: -128}
+        - {x: 113, y: -128}
+        - {x: 113, y: 0}
+        - {x: 111, y: 2}
+        - {x: 105, y: 2}
+    - name: Tiles_set_ ancient_plains_ (1)_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 74}
+        - {x: 41, y: 73}
+        - {x: 23, y: 59}
+        - {x: -20, y: 66}
+        - {x: -41, y: 63}
+        - {x: -82, y: 88}
+        - {x: -89, y: 105}
+        - {x: -113, y: 105}
+        - {x: -113, y: -52}
+        - {x: -111, y: -54}
+        - {x: -107, y: -78}
+        - {x: -105, y: -128}
+        - {x: 113, y: -128}
+        - {x: 113, y: 94}
+        - {x: 111, y: 96}
+        - {x: 91, y: 99}
+    - name: Tiles_set_ ancient_plains_ (1)_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -109}
+        - {x: 113, y: 0}
+        - {x: 111, y: 2}
+        - {x: 105, y: 2}
+        - {x: 105, y: 43}
+        - {x: 103, y: 45}
+        - {x: 96, y: 45}
+        - {x: 103, y: 57}
+        - {x: 105, y: 59}
+        - {x: 111, y: 83}
+        - {x: 113, y: 85}
+        - {x: 113, y: 128}
+        - {x: -105, y: 128}
+        - {x: -113, y: 120}
+        - {x: -113, y: -109}
+        - {x: -120, y: -109}
+        - {x: -122, y: -111}
+        - {x: -122, y: -117}
+        - {x: -128, y: -117}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -117}
+        - {x: 120, y: -109}
+    - name: Tiles_set_ ancient_plains_ (1)_17
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -32}
+        - {x: -128, y: -45}
+        - {x: -119, y: -45}
+        - {x: -117, y: -43}
+        - {x: -117, y: -34}
+        - {x: -119, y: -32}
+    - name: Tiles_set_ ancient_plains_ (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -109}
+        - {x: 113, y: 0}
+        - {x: 111, y: 2}
+        - {x: 105, y: 2}
+        - {x: 105, y: 43}
+        - {x: 103, y: 45}
+        - {x: 96, y: 45}
+        - {x: 103, y: 57}
+        - {x: 105, y: 59}
+        - {x: 111, y: 83}
+        - {x: 113, y: 85}
+        - {x: 113, y: 128}
+        - {x: -105, y: 128}
+        - {x: -113, y: 120}
+        - {x: -113, y: -109}
+        - {x: -120, y: -109}
+        - {x: -122, y: -111}
+        - {x: -122, y: -117}
+        - {x: -128, y: -117}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -117}
+        - {x: 120, y: -109}
+    - name: Tiles_set_ ancient_plains_ (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -32}
+        - {x: -45, y: -34}
+        - {x: -45, y: -43}
+        - {x: -43, y: -45}
+        - {x: -34, y: -45}
+        - {x: -32, y: -43}
+        - {x: -32, y: -34}
+        - {x: -34, y: -32}
+    - name: Tiles_set_ ancient_plains_ (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -109}
+        - {x: 125, y: -32}
+        - {x: 114, y: -30}
+        - {x: 114, y: 1}
+        - {x: 106, y: 4}
+        - {x: 113, y: 25}
+        - {x: 113, y: 40}
+        - {x: 101, y: 48}
+        - {x: 105, y: 59}
+        - {x: 113, y: 85}
+        - {x: 113, y: 128}
+        - {x: -105, y: 128}
+        - {x: -113, y: 120}
+        - {x: -113, y: -109}
+        - {x: -121, y: -108}
+        - {x: -128, y: -116}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -117}
+        - {x: 120, y: -109}
+      - - {x: 117, y: 0}
+        - {x: 117, y: -9}
+        - {x: 119, y: -11}
+        - {x: 128, y: -11}
+        - {x: 128, y: 2}
+        - {x: 119, y: 2}
+    - name: Tiles_set_ ancient_plains_ (1)_21
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_29
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_33
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_37
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_41
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: Tiles_set_ ancient_plains_ (1)_45
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_48
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: 43}
+        - {x: 103, y: 45}
+        - {x: 96, y: 45}
+        - {x: 96, y: 57}
+        - {x: 103, y: 57}
+        - {x: 105, y: 59}
+        - {x: 105, y: 83}
+        - {x: 111, y: 83}
+        - {x: 113, y: 85}
+        - {x: 113, y: 128}
+        - {x: -105, y: 128}
+        - {x: -113, y: 120}
+        - {x: -113, y: 25}
+        - {x: -111, y: 23}
+        - {x: -105, y: 23}
+        - {x: -105, y: 2}
+        - {x: -111, y: 2}
+        - {x: -113, y: 0}
+        - {x: -113, y: -128}
+        - {x: 113, y: -128}
+        - {x: 113, y: 0}
+        - {x: 111, y: 2}
+        - {x: 105, y: 2}
+    - name: Tiles_set_ ancient_plains_ (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_53
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tiles_set_ ancient_plains_ (1)_54
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
